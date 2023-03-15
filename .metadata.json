@@ -1,5 +1,9 @@
 [
   {
+    "package": "abglasso",
+    "oncran": true
+  },
+  {
     "package": "baygel",
     "oncran": true
   }
