@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "abglasso"]
 	path = abglasso
-	url = https://github.com/jarod-smithy/abglasso
+	url = https://github.com/cran/abglasso
 [submodule "baygel"]
 	path = baygel
 	url = https://github.com/jarod-smithy/baygel
